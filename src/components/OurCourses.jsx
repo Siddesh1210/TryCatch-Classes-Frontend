@@ -10,7 +10,7 @@ const OurCourses = () => {
   }, []);
 
   async function fetchData() {
-    const response = await fetch("http://localhost:8000/courses/top-courses", {
+    const response = await fetch("https://trycatch-classes-backend.onrender.com/courses/top-courses", {
       method: "GET",
       headers: {
         "Content-Type": "application/json",
