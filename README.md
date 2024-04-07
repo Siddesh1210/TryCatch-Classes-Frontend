@@ -1,4 +1,4 @@
-#TRYCATCH Classes Home Page Project Overview
+# TRYCATCH Classes Home Page Project Overview
 
 The TRYCATCH Classes Home Page project is a comprehensive endeavor to recreate the homepage of TRYCATCH Classes, an educational platform, using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Below is an in-depth overview of the project:
 
@@ -18,3 +18,6 @@ The TRYCATCH Classes Home Page project is a comprehensive endeavor to recreate t
 **4. Hosting and Deployment:**
    - **Frontend Hosting**: The frontend is hosted on Vercel, a platform for deploying serverless functions and static websites with ease.
    - **Backend Hosting**: The backend is deployed on Render, a cloud platform that offers managed hosting and scaling for web applications and APIs.
+# Live Project Link :
+Frontend : https://try-catch-classes-frontend.vercel.app/
+Backend Link : https://trycatch-classes-backend.onrender.com/courses/top-courses
